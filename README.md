@@ -1,2 +1,2 @@
-# Tri-ngulos
+# Triangulos
 -Verificação e Classificação de trângulos.
